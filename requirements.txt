@@ -2,3 +2,4 @@ streamlit
 pandas
 akshare>=1.15.50
 pytz
+requests
